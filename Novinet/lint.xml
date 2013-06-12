@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+    <issue id="SpUsage">
+        <ignore path="res\layout\activity_post_list.xml" />
+    </issue>
+    <issue id="UseValueOf" severity="ignore" />
+</lint>

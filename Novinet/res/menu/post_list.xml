@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    
+    <item
+        android:id="@+id/prev"
+        android:icon="@drawable/actionsgopreviousicon"
+        android:title="Prijašnja stranica"
+        android:titleCondensed="Prijašnja">
+    </item>
+    <item
+        android:id="@+id/next"
+        android:icon="@drawable/actionsgonexticon"
+        android:title="Slijedeća stranica"
+        android:titleCondensed="Slijedeća">
+    </item>
+
+</menu>

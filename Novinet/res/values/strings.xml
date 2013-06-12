@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Novine(t)</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_list_view_example">ListViewExampleActivity</string>
+    <string name="title_activity_post_list">Lista Postova</string>
+    <string name="title_activity_page_set">PageSet</string>
+    <string name="title_activity_post_display">Post</string>
+    <string name="title_activity_yt">YTActivity</string>
+    <string name="name">Novine(t)</string>
+    <string name="title_activity_acync_task_load_post">AcyncTaskLoadPost</string>
+
+</resources>
